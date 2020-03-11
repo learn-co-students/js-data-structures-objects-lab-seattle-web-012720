@@ -1,3 +1,4 @@
+const driver = {};
 describe('drivers', function() {
   describe('updateDriverWithKeyAndValue(driver, key, value)', function () {
     beforeEach(function () {
